@@ -1,0 +1,20 @@
+{
+  "name": "javascript-sdk",
+  "version": "1.0.0",
+  "description": "This project is maintained using [Apache 2.0](https://github.com/mtmulch12/JavaScript-SDK/blob/main/LICENSE).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Encryption-API-Services/JavaScript-SDK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Encryption-API-Services/JavaScript-SDK/issues"
+  },
+  "homepage": "https://github.com/Encryption-API-Services/JavaScript-SDK#readme"
+}
