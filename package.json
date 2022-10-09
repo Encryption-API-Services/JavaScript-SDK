@@ -1,19 +1,24 @@
 {
-  "name": "javascript-sdk",
-  "version": "1.0.0",
-  "description": "This project is maintained using [Apache 2.0](https://github.com/mtmulch12/JavaScript-SDK/blob/main/LICENSE).",
+  "name": "@encryption-api-services/javascript-sdk",
+  "version": "1.0.1",
+  "description": "This project is maintained using [Apache 2.0](https://github.com/Encryption-API-Services/JavaScript-SDK/blob/main/LICENSE).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SomeGuysWhoCodes/JavaScript-SDK.git"
+    "url": "git+https://github.com/Encryption-API-Services/JavaScript-SDK.git"
   },
-  "author": "Michael Mulchrone",
-  "license": "Apache 2.0",
+  "keywords": [],
+  "author": "Mike Mulchrone <mtmulch0191@outlook.com>",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SomeGuysWhoCodes/JavaScript-SDK/issues"
+    "url": "https://github.com/Encryption-API-Services/JavaScript-SDK/issues"
   },
-  "homepage": "https://github.com/SomeGuysWhoCodes/JavaScript-SDK#readme"
+  "homepage": "https://github.com/Encryption-API-Services/JavaScript-SDK#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
