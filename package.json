@@ -1,6 +1,6 @@
 {
   "name": "@encryption-api-services/javascript-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This project is maintained using [Apache 2.0](https://github.com/Encryption-API-Services/JavaScript-SDK/blob/main/LICENSE).",
   "main": "index.js",
   "scripts": {
