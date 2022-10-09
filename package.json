@@ -1,5 +1,5 @@
 {
-  "name": "javascript-sdk",
+  "name": "@encryption-api-services/javascript-sdk",
   "version": "1.0.0",
   "description": "This project is maintained using [Apache 2.0](https://github.com/mtmulch12/JavaScript-SDK/blob/main/LICENSE).",
   "main": "index.js",
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Encryption-API-Services/JavaScript-SDK/issues"
   },
-  "homepage": "https://github.com/Encryption-API-Services/JavaScript-SDK#readme"
+  "homepage": "https://github.com/Encryption-API-Services/JavaScript-SDK#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
